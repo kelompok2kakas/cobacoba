@@ -11,4 +11,5 @@ echo "Alhamdulillah"
 
 echo "Fungsi commit"
 echo"Bismillah"
+echo "Liat perubahan"
 ?>
